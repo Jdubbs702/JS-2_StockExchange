@@ -20,6 +20,9 @@
 .form-control {
     border: 1px solid #C82333
 }
+.form-control::placeholder{
+    font-size: 11px;
+}
 .list-item-container{
     height: 60px;
 }
